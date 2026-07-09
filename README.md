@@ -12,16 +12,6 @@ Both count as progress.
 
 ***
 
-## 💡 A Few Things About Me
-
-- I enjoy building things that make other developers slightly less miserable.
-- I believe every bug has a personal grudge against me.
-- My Git history contains equal amounts of progress and regret.
-- If I disappear for a few hours, I'm probably debugging something that turned out to be a missing comma.
-- I still think "just one more feature" is a reasonable sentence.
-
-***
-
 ## 🕷️ My Origin Story
 
 Most people say they got into programming because they loved solving problems.
@@ -34,21 +24,24 @@ I grew up watching *Ben 10*, *Spider-Man*, and every sci-fi cartoon I could find
 
 ## 💻 Tech
 
-**Languages**
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,c,r" alt="Languages" />
+</p>
 
-`Python` `R` `C` `Go (Learning)`
+### Data Science
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn,polars" alt="Data Science" />
+</p>
 
-**Data Science**
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,clion,figma" alt="Tools" />
+</p>
 
-`NumPy` `Pandas` `Polars` `Scikit-Learn`
-
-**Tools**
-
-`Git` `GitHub` `VS Code` `PyCharm` `CLion` `Figma` `Excel`
-
-**AI**
-
-`Claude` `ChatGPT`
+**AI & Other**
+- **AI Assistants:** Claude, ChatGPT
+- **Other:** Microsoft Excel
 
 ***
 
@@ -60,25 +53,15 @@ I grew up watching *Ben 10*, *Spider-Man*, and every sci-fi cartoon I could find
 
 ***
 
-## 📂 Things You'll Probably Find in My GitHub
-
-- [x] Python libraries
-- [x] Weird experiments
-- [x] AI projects
-- [x] Data Science stuff
-- [ ] "This seemed like a good idea at 1 AM"
-
-***
-
 ## 📊 Dashboard
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaryanrwt&show_icons=true&theme=tokyonight&hide_border=true" alt="Aaryan's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryanrwt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryanrwt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryanrwt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=aaryanrwt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -88,7 +71,11 @@ I grew up watching *Ben 10*, *Spider-Man*, and every sci-fi cartoon I could find
 ### 🐍 Profile Activity Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aaryanrwt/aaryanrwt/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaryanrwt/aaryanrwt/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaryanrwt/aaryanrwt/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/aaryanrwt/aaryanrwt/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 > **Note:** The snake will start crawling once the automated GitHub Action is set up on your repository.
