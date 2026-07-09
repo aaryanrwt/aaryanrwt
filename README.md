@@ -10,7 +10,7 @@ Sometimes I build cool stuff.
 Sometimes I spend three hours debugging a missing comma.
 Both count as progress.
 
-***
+---
 
 ## 🕷️ My Origin Story
 
@@ -20,7 +20,7 @@ Mine is less dramatic.
 
 I grew up watching *Ben 10*, *Spider-Man*, and every sci-fi cartoon I could find. At some point, I realized computers couldn't turn me into Alien X... so I settled for making them clean datasets instead. Not exactly the same thing, but close enough.
 
-***
+---
 
 ## 💻 Tech
 
@@ -43,7 +43,7 @@ I grew up watching *Ben 10*, *Spider-Man*, and every sci-fi cartoon I could find
 - **AI Assistants:** Claude, ChatGPT
 - **Other:** Microsoft Excel
 
-***
+---
 
 ## 🔄 Currently Learning
 - Go
@@ -51,24 +51,34 @@ I grew up watching *Ben 10*, *Spider-Man*, and every sci-fi cartoon I could find
 - Machine Learning Systems
 - Whatever bug I'm fighting today
 
-***
+---
 
 ## 📊 Dashboard
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaryanrwt&show_icons=true&theme=tokyonight&hide_border=true" alt="Aaryan's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryanrwt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=aaryanrwt&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aaryanrwt&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aaryanrwt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=aaryanrwt&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryanrwt&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aaryanrwt&theme=tokyo-night&hide_border=true"
+  />
 </p>
 
-***
+---
 
 ## 🤝 Let's Connect
 
@@ -78,7 +88,7 @@ If you want to talk about Python, Data Science, AI, Open Source, building weird 
 - 🐙 **GitHub:** [@aaryanrwt](https://github.com/aaryanrwt)
 - 🐦 **X (Twitter):** [@aaryanrwt](https://x.com/aaryanrwt)
 
-***
+---
 
 <p align="center">
   <sub>Thanks for visiting. Now excuse me—I have to spend three hours debugging something that will eventually be fixed by deleting one extra space. 🔌</sub>
