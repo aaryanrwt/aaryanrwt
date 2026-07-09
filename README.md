@@ -68,18 +68,6 @@ I grew up watching *Ben 10*, *Spider-Man*, and every sci-fi cartoon I could find
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryanrwt&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
-### 🐍 Profile Activity Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaryanrwt/aaryanrwt/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaryanrwt/aaryanrwt/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/aaryanrwt/aaryanrwt/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-> **Note:** The snake will start crawling once the automated GitHub Action is set up on your repository.
-
 ***
 
 ## 🤝 Let's Connect
