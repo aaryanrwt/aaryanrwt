@@ -24,6 +24,20 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
+      - name: Remove bottom bar from SVGs
+        run: |
+          python3 -c "
+          import re, glob
+          for p in glob.glob('dist/*.svg'):
+              with open(p, 'r', encoding='utf-8') as f:
+                  s = f.read()
+              s = re.sub(r'<rect class=\"u [^\"]*\"[^>]*/>', '', s)
+              s = re.sub(r'viewBox=\"(-?\d+)\s+(-?\d+)\s+(\d+)\s+192\"', r'viewBox=\"\1 \2 \3 150\"', s)
+              s = re.sub(r'height=\"192\"', r'height=\"150\"', s)
+              with open(p, 'w', encoding='utf-8') as f:
+                  f.write(s)
+          "
+
       - name: Push Snake SVGs to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
