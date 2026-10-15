@@ -57,21 +57,14 @@ I grew up watching *Ben 10*, *Spider-Man*, and every sci-fi cartoon I could find
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=aaryanrwt&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=aaryanrwt&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true"
     height="170"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryanrwt&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryanrwt&layout=compact&theme=tokyonight&hide_border=true&hide=rust,typescript"
     height="170"
     alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=aaryanrwt&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
   />
 </p>
 
