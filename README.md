@@ -68,6 +68,10 @@ I grew up watching *Ben 10*, *Spider-Man*, and every sci-fi cartoon I could find
   />
 </p>
 
+<p align="center">
+  <img src="metrics.plugin.isocalendar.svg" alt="Isometric Contribution Calendar" />
+</p>
+
 ---
 
 ## 🤝 Let's Connect
