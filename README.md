@@ -1,4 +1,4 @@
-# hey, i'm aaryan 👋
+# hey, i'm aaryan <img src="assets/icons/sparkle.svg" width="26" height="26" alt="" />
 
 I'm a second-year Computer Science student specializing in **Artificial Intelligence & Machine Learning**.
 
@@ -12,7 +12,7 @@ Both count as progress.
 
 ---
 
-## 🕷️ My Origin Story
+## <img src="assets/icons/origin.svg" width="21" height="21" alt="" />&nbsp; My Origin Story
 
 Most people say they got into programming because they loved solving problems.
 
@@ -22,7 +22,7 @@ I grew up watching *Ben 10*, *Spider-Man*, and every sci-fi cartoon I could find
 
 ---
 
-## 💻 Tech
+## <img src="assets/icons/tech.svg" width="21" height="21" alt="" />&nbsp; Tech
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -82,7 +82,7 @@ I grew up watching *Ben 10*, *Spider-Man*, and every sci-fi cartoon I could find
 
 ---
 
-## 🔄 Currently Learning
+## <img src="assets/icons/learning.svg" width="21" height="21" alt="" />&nbsp; Currently Learning
 - Go
 - Data Structures & Algorithms
 - Machine Learning Systems
@@ -90,7 +90,7 @@ I grew up watching *Ben 10*, *Spider-Man*, and every sci-fi cartoon I could find
 
 ---
 
-## 📊 Dashboard
+## <img src="assets/icons/dashboard.svg" width="21" height="21" alt="" />&nbsp; Dashboard
 
 <p align="center">
   <img
@@ -118,18 +118,18 @@ I grew up watching *Ben 10*, *Spider-Man*, and every sci-fi cartoon I could find
 
 ---
 
-## 🤝 Let's Connect
+## <img src="assets/icons/connect.svg" width="21" height="21" alt="" />&nbsp; Let's Connect
 
 If you want to talk about Python, Data Science, AI, Open Source, building weird tools, or why Ben 10 is objectively cooler than Spider-Man... feel free to reach out.
 
-- 📧 **Email:** [aaryan28rwt@gmail.com](mailto:aaryan28rwt@gmail.com)
-- 🐙 **GitHub:** [@aaryanrwt](https://github.com/aaryanrwt)
-- 🐦 **X (Twitter):** [@aaryanrwt](https://x.com/aaryanrwt)
+- <img src="assets/icons/mail.svg" width="16" height="16" alt="" />&nbsp; **Email:** [aaryan28rwt@gmail.com](mailto:aaryan28rwt@gmail.com)
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717" /><img src="https://cdn.simpleicons.org/github/ffffff" width="16" height="16" alt="" /></picture>&nbsp; **GitHub:** [@aaryanrwt](https://github.com/aaryanrwt)
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/000000" /><img src="https://cdn.simpleicons.org/x/ffffff" width="16" height="16" alt="" /></picture>&nbsp; **X (Twitter):** [@aaryanrwt](https://x.com/aaryanrwt)
 
 ---
 
 <p align="center">
-  <sub>Thanks for visiting. Now excuse me—I have to spend three hours debugging something that will eventually be fixed by deleting one extra space. 🔌</sub>
+  <sub>Thanks for visiting. Now excuse me—I have to spend three hours debugging something that will eventually be fixed by deleting one extra space. <img src="assets/icons/terminal.svg" width="14" height="14" alt="" /></sub>
 </p>
 
 <p align="center">
