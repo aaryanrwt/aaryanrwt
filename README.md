@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/dragon-ascii.gif" width="100%" alt="Mystical animated ASCII dragon with a meditating monk">
+</div>
+
 # hey, i'm aaryan 👋
 
 I'm a second-year Computer Science student specializing in **Artificial Intelligence & Machine Learning**.
