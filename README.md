@@ -26,58 +26,22 @@ I grew up watching *Ben 10*, *Spider-Man*, and every sci-fi cartoon I could find
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="42" height="42" alt="Go" title="Go" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="42" height="42" alt="C" title="C" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="42" height="42" alt="R" title="R" />
+  <img src="assets/tech/languages.svg" alt="Languages: Python, Go, C, R" />
 </p>
 
 <h3 align="center">Data Science &amp; ML</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy" title="NumPy" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas" title="Pandas" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="Scikit-learn" title="Scikit-learn" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/polars/CD792C" width="42" height="42" alt="Polars" title="Polars" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch" title="PyTorch" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="42" height="42" alt="TensorFlow" title="TensorFlow" />
+  <img src="assets/tech/data-science.svg" alt="Data Science &amp; ML: NumPy, Pandas, Scikit-learn, Polars, PyTorch, TensorFlow" />
 </p>
 
 <h3 align="center">AI, Agents &amp; LLMs</h3>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/modelcontextprotocol/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/modelcontextprotocol/000000" />
-    <img src="https://cdn.simpleicons.org/modelcontextprotocol/ffffff" width="42" height="42" alt="MCP (Model Context Protocol)" title="MCP (Model Context Protocol)" />
-  </picture>&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" width="42" height="42" alt="LangChain" title="LangChain" />&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/llamaindex-color.svg" width="42" height="42" alt="LlamaIndex" title="LlamaIndex" />&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="42" height="42" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/crewai-color.svg" width="42" height="42" alt="CrewAI" title="CrewAI" />&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/huggingface-color.svg" width="42" height="42" alt="Hugging Face" title="Hugging Face" />&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ollama/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/ollama/000000" />
-    <img src="https://cdn.simpleicons.org/ollama/ffffff" width="42" height="42" alt="Ollama" title="Ollama" />
-  </picture>&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" width="42" height="42" alt="Claude" title="Claude" />&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/chatgpt.png" width="42" height="42" alt="ChatGPT" title="ChatGPT" />&nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" width="42" height="42" alt="Gemini" title="Gemini" />
+  <img src="assets/tech/ai-llms.svg" alt="AI, Agents &amp; LLMs: MCP, LangChain, LlamaIndex, LangGraph, CrewAI, Hugging Face, Ollama, Claude, ChatGPT, Gemini" />
 </p>
 
 <h3 align="center">Tools &amp; Other</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" alt="GitHub" title="GitHub" />
-  </picture>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code" title="VS Code" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="42" height="42" alt="PyCharm" title="PyCharm" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="42" height="42" alt="CLion" title="CLion" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="42" height="42" alt="Figma" title="Figma" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/fastapi/009688" width="42" height="42" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="42" height="42" alt="Microsoft Excel" title="Microsoft Excel" />
+  <img src="assets/tech/tools.svg" alt="Tools &amp; Other: Git, GitHub, VS Code, PyCharm, CLion, Figma, FastAPI, Excel" />
 </p>
 
 ---
