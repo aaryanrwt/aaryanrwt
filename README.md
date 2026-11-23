@@ -24,24 +24,47 @@ I grew up watching *Ben 10*, *Spider-Man*, and every sci-fi cartoon I could find
 
 ## 💻 Tech
 
-### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,c,r" alt="Languages" />
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="42" height="42" alt="Go" title="Go" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="42" height="42" alt="C" title="C" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="42" height="42" alt="R" title="R" />
 </p>
 
-### Data Science
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn,polars" alt="Data Science" />
+<h3 align="center">Data Science</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy" title="NumPy" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas" title="Pandas" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="Scikit-learn" title="Scikit-learn" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/polars/CD792C" width="42" height="42" alt="Polars" title="Polars" />
 </p>
 
-### Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,clion,figma" alt="Tools" />
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" alt="GitHub" title="GitHub" />
+  </picture>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code" title="VS Code" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="42" height="42" alt="PyCharm" title="PyCharm" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="42" height="42" alt="CLion" title="CLion" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="42" height="42" alt="Figma" title="Figma" />
 </p>
 
-**AI & Other**
-- **AI Assistants:** Claude, ChatGPT
-- **Other:** Microsoft Excel
+<h3 align="center">AI &amp; Other</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/modelcontextprotocol/ffffff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/modelcontextprotocol/000000" />
+    <img src="https://cdn.simpleicons.org/modelcontextprotocol/ffffff" width="42" height="42" alt="MCP (Model Context Protocol)" title="MCP (Model Context Protocol)" />
+  </picture>&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude-color.svg" width="42" height="42" alt="Claude" title="Claude" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/chatgpt.png" width="42" height="42" alt="ChatGPT" title="ChatGPT" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="42" height="42" alt="Microsoft Excel" title="Microsoft Excel" />
+</p>
 
 ---
 
